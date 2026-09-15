@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+}
+h1{
+    font-size: 36pt;
+}
+h2{
+    color: blue;
+}
+p{
+    margin-left: 50px;
+}
+#contact{
+    height: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;;
+}
+#About{
+    height: auto;
+    background-color: rgb(170, 223, 9);
+    padding: 20px;
+    text-align: center;;
+}
+
+.judulc{
+    text-align:center;
+}
